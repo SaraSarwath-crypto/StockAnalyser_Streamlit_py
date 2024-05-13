@@ -1,2 +1,3 @@
+Author - Sara Sarwath
 streamlit
 yfinance
